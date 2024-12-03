@@ -9,7 +9,7 @@ This modular and extensible library is designed for developers who want clean, r
 
 ---
 
-### **📒NOTE:** Compile using a C++11 or later-compatible compiler.
+### **📒NOTE:** Compiler using a C++11 or later-compatible compiler.
 #
 
 
